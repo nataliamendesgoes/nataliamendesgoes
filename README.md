@@ -1,27 +1,35 @@
-### Hi people! I'm Natália
-I am a computer science student at the Federal Technological University of Paraná
+# 👩‍💻 Hi there, I'm Natália!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliamendesgoes&show_icons=true&theme=gruvbox_light">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamendesgoes&layout=compact&theme=gruvbox_light">
-<div style="display: inline_block"><br>
-  <img aling = "center" alt = "Nati-C" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" >
-  <img aling = "center" alt = "Nati-C" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" >
-  <img aling = "center" alt = "Nati-C" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" >
-  <img aling = "center" alt = "Nati-C" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
+🎓 Computer Science student at the **Federal Technological University of Paraná (UTFPR)**  
+💡 Passionate about **Artificial Intelligence, Multi-Agent Systems and BDI Agents**  
+📚 Currently working on research involving **Large Language Models (LLMs)** with **RAG**  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliamendesgoes&show_icons=true&theme=gruvbox_light&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamendesgoes&layout=compact&theme=gruvbox_light">
 </div>
-<!--<img aling = "center" alt = "Nati-C" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" >>
-  
-<!--
-**nataliamendesgoes/nataliamendesgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nati-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Nati-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Nati-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Nati-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+  <img align="center" alt="Nati-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+</div>
+
+---
+
+## 🌎 Let's Connect!
+
+📫 **Email:** nataliagoes10@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/natália-16-br)  
+---
