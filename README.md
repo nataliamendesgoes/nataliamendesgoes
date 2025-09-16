@@ -8,10 +8,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliamendesgoes&show_icons=true&theme=gruvbox_light&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamendesgoes&layout=compact&theme=gruvbox_light">
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliamendesgoes&show_icons=true&theme=gruvbox_light"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamendesgoes&layout=compact&theme=gruvbox_light">
 
 ---
 
