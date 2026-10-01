@@ -1,5 +1,6 @@
 # 👩‍💻 Hi there, I'm Natália!
 
+🎓 MSc in Informatics (Double Degree) at the **Bragança Polytechnic University**  
 🎓 Computer Science student at the **Federal Technological University of Paraná (UTFPR)**  
 💡 Passionate about **Artificial Intelligence, Multi-Agent Systems and BDI Agents**  
 📚 Currently working on research involving **Large Language Models (LLMs)** with **RAG**  
